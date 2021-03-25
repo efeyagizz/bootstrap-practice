@@ -1,0 +1,69 @@
+
+.a-bg {
+    color: white;
+    background-color: #1779ba;
+}
+.a-bg:hover {
+    
+    background-color: #115b8d;
+}
+.a-a{
+    color: white;
+}
+.a-a:hover {
+    background-color: grey;
+    color: grey;
+    text-decoration: none;
+}
+
+/* .header {
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 500px;
+    padding-top: 220px;
+    background: url(https://get.foundation/assets/img/home-bg-01.svg);
+} */
+
+.background-image {
+    padding: 20%;
+    background: url(https://picsum.photos/id/1019/1920/680);
+    background-repeat: no-repeat;
+    background-size:contain;
+}
+
+.position-h1 {
+    position: absolute;
+    left: 560px;
+    top: 250px;
+    font-size: 50px;
+  }
+  .position-h2 {
+    position: absolute;
+    left: 560px;
+    top: 310px;
+  }
+  .position-button {
+    position: absolute;
+    left: 560px;
+    top: 400px;
+  }
+  .position-i {
+    position: absolute;
+    left: 560px;
+    top: 500px;
+  }
+  .position-a {
+    position: absolute;
+    left: 590px;
+    top: 500px;
+  }
+  .position-i-2 {
+    position: absolute;
+    left: 560px;
+    top: 530px;
+  }
+  .position-a-2 {
+    position: absolute;
+    left: 590px;
+    top: 530px;
+  }

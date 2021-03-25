@@ -1,0 +1,47 @@
+.site-header {
+    background-color: rgba(0, 0, 0, .85);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+  }
+
+  .position-4{
+      position: relative;
+      left: 200px;
+  }
+
+  .position
+  {
+     position: absolute;
+
+     left: 600px;
+  }
+  .position-2
+  {
+     position: absolute;
+
+     left: 710px;
+  }
+  .position-3
+  {
+     position: absolute;
+
+     left: 780px;
+  }
+
+  .border-top-dark {
+    border-top: 1px solid rgba(230, 230, 230, 1);
+}
+
+.button {
+
+    float: right;
+    padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+  }
+
+  .big-btn {
+    width: 250px;
+    height: 30px;
+}
